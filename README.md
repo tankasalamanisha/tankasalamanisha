@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tankasalamanisha
 - 👀 I’m interested in Machine learning and Applied AI
-- 🌱 I’m currently learning Python,Data Structures, MongoDB ,QGIS,Linux OS, Quantum Computing and Image processing.I enjoy working in VS code and Vim.
+- 🌱 I’m currently learning Python,Data Structures, JSON,GeoJson, MongoDB ,QGIS,Linux OS, Quantum Computing and Image processing.I enjoy working in VS code and Vim.
 - 💞️ I’m looking to collaborate on AI-ML and OpenCV projects
 - 📫 How to reach me : linkedin- https://www.linkedin.com/in/manishatv/
 
