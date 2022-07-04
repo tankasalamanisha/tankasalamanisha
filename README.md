@@ -10,7 +10,7 @@
 - 😻 I work at SmartTerra providing smart solutuions for water utilities. [SmartTerra.inc][https://www.linkedin.com/company/smartterra/]
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="26px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_icon_circle.svg" style="padding-right:10px;" />][https://www.linkedin.com/in/manishatv/]]
+[<img align="left" alt="LinkedIn" width="26px" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTIgMmM1LjUxNCAwIDEwIDQuNDg2IDEwIDEwcy00LjQ4NiAxMC0xMCAxMC0xMC00LjQ4Ni0xMC0xMCA0LjQ4Ni0xMCAxMC0xMHptMC0yYy02LjYyNyAwLTEyIDUuMzczLTEyIDEyczUuMzczIDEyIDEyIDEyIDEyLTUuMzczIDEyLTEyLTUuMzczLTEyLTEyLTEyem0tMiA4YzAgLjU1Ny0uNDQ3IDEuMDA4LTEgMS4wMDhzLTEtLjQ1LTEtMS4wMDhjMC0uNTU3LjQ0Ny0xLjAwOCAxLTEuMDA4czEgLjQ1MiAxIDEuMDA4em0wIDJoLTJ2Nmgydi02em0zIDBoLTJ2Nmgydi0yLjg2MWMwLTEuNzIyIDIuMDAyLTEuODgxIDIuMDAyIDB2Mi44NjFoMS45OTh2LTMuMzU5YzAtMy4yODQtMy4xMjgtMy4xNjQtNC0xLjU0OHYtMS4wOTN6Ii8+PC9zdmc+" style="padding-right:10px;" />][https://www.linkedin.com/in/manishatv/]]
 
 ### Languages and Tools:
 
