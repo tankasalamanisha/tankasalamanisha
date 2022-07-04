@@ -15,7 +15,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Python" width="26px" src="https://staging.python.org/static/community_logos/python-logo-generic.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-powered-h.svg" style="padding-right:10px;" />]
 [<img align="left" alt="JupyterNotebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Geopandas" width="26px" src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/source/_static/logo/geopandas_icon.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" style="padding-right:10px;" />]
@@ -28,6 +28,7 @@
   <summary>:zap: Most used languages </summary>
   <img align="left" alt="Most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankasalamanisha&show_icons=true&hide_border=false" />
 
+### Github Stats:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
