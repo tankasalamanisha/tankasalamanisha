@@ -10,9 +10,7 @@
 - 😻 I work at SmartTerra providing smart solutuions for water utilities. [SmartTerra.inc][https://www.linkedin.com/company/smartterra/]
 
 ### Connect with me:
-
-&nbsp;&nbsp;
-[![https://www.linkedin.com/in/manishatv/](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)]
+[<img align="left" alt="LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)" style="padding-right:10px;" />][https://www.linkedin.com/in/manishatv/]]
 
 ### Languages and Tools:
 
