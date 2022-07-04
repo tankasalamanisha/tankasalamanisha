@@ -26,13 +26,12 @@
 ### Most Used Languages:
 <details>
   <summary>:zap: Most used languages </summary>
-  <img align="left" alt="Most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankasalamanisha&show_icons=true&hide_border=false" />
----
-<br/>
-<br/>
+  <img align="center" alt="Most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankasalamanisha&show_icons=true&hide_border=false" />
+<br />
+<br />
 ### Github Stats:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Manisha's stats" src="https://github-readme-stats.vercel.app/api?username=tankasalamanisha&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="center" alt="Manisha's stats" src="https://github-readme-stats.vercel.app/api?username=tankasalamanisha&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
