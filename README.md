@@ -26,7 +26,7 @@
 ### Most Used Languages:
 <details>
   <summary>:zap: Most used languages </summary>
-  <img align="left" alt="Most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username={tankasalamanisha}&show_icons=true&hide_border=false" />
+  <img align="left" alt="Most used language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tankasalamanisha&show_icons=true&hide_border=false" />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
