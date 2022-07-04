@@ -12,8 +12,7 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/manishatv#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/manishatv#gh-dark-mode-only)
+[![https://www.linkedin.com/in/manishatv/](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)]
 
 ### Languages and Tools:
 
